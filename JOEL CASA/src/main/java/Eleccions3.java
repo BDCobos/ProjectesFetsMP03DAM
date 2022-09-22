@@ -11,10 +11,9 @@ public class Eleccions3
         banders = sc.nextInt();
 
         // Més d'una instrucció al obrir claus
-        if (jiden>drump && jiden>banders)
-        {
+        if (jiden>drump && jiden>banders) {
             System.out.println("Jiden");
-        } else if  (drump>jiden && drump>banders){
+        }else if  (drump>jiden && drump>banders){
             System.out.println("Drump");
         }else{
             System.out.println("Banders");
