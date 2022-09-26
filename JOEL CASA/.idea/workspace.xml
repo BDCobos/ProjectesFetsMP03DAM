@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="777ce375-cfa1-4db3-83ce-7e5f567e589a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ButlletiNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CercarParelles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PedraPaperTisores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iron4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iron4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ButlletiNotes">
+  <component name="RunManager" selected="Application.CercarParelles">
     <configuration name="BarretHogwarts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BarretHogwarts" />
       <module name="JOEL CASA" />
@@ -60,15 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eleccions3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eleccions3" />
+    <configuration name="CercarParelles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CercarParelles" />
       <module name="JOEL CASA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtsJove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EtsJove" />
+    <configuration name="Eleccions3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eleccions3" />
       <module name="JOEL CASA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CercarParelles" />
         <item itemvalue="Application.ButlletiNotes" />
         <item itemvalue="Application.Iron4" />
         <item itemvalue="Application.BarretHogwarts" />
         <item itemvalue="Application.Eleccions3" />
-        <item itemvalue="Application.EtsJove" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +111,8 @@
       <workItem from="1663833899141" duration="388000" />
       <workItem from="1663847269868" duration="1000" />
       <workItem from="1664126722838" duration="3163000" />
+      <workItem from="1664188643978" duration="1399000" />
+      <workItem from="1664190054816" duration="1985000" />
     </task>
     <servers />
   </component>
