@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="777ce375-cfa1-4db3-83ce-7e5f567e589a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CercarParelles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PedraPaperTisores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Apunts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Decada90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DimensioInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Divisible1_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HoraValida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HoraValida.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,47 +38,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alumne/IdeaProjects/DAM 22-23/MP03 - Progamació/Primera&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/alumne/IdeaProjects/DAM 22-23/MP03 - Progamació/Primera",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
   }
-}</component>
-  <component name="RunManager" selected="Application.CercarParelles">
-    <configuration name="BarretHogwarts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BarretHogwarts" />
+}]]></component>
+  <component name="RunManager" selected="Application.HoraValida">
+    <configuration name="Apunts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Apunts" />
       <module name="JOEL CASA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ButlletiNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ButlletiNotes" />
+    <configuration name="Decada90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decada90" />
       <module name="JOEL CASA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CercarParelles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CercarParelles" />
+    <configuration name="DimensioInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DimensioInversa" />
       <module name="JOEL CASA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eleccions3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eleccions3" />
+    <configuration name="Divisible1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divisible1_10" />
       <module name="JOEL CASA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iron4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Iron4" />
+    <configuration name="HoraValida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HoraValida" />
       <module name="JOEL CASA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CercarParelles" />
-        <item itemvalue="Application.ButlletiNotes" />
-        <item itemvalue="Application.Iron4" />
-        <item itemvalue="Application.BarretHogwarts" />
-        <item itemvalue="Application.Eleccions3" />
+        <item itemvalue="Application.HoraValida" />
+        <item itemvalue="Application.Apunts" />
+        <item itemvalue="Application.DimensioInversa" />
+        <item itemvalue="Application.Decada90" />
+        <item itemvalue="Application.Divisible1_10" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +115,8 @@
       <workItem from="1663847269868" duration="1000" />
       <workItem from="1664126722838" duration="3163000" />
       <workItem from="1664188643978" duration="1399000" />
-      <workItem from="1664190054816" duration="1985000" />
+      <workItem from="1664190054816" duration="4074000" />
+      <workItem from="1664259463220" duration="4902000" />
     </task>
     <servers />
   </component>
