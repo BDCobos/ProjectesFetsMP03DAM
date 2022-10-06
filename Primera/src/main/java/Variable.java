@@ -14,7 +14,7 @@ public class Variable  // nom de classes PascalCase
         double real= 2.3;
         double _1real = 2.4;
         double real1, real2 = 3.4;   //Declaro 2 variables del mateix tipo
-       boolean int1 = true;
+        boolean int1 = true;
 
         // Codi del programa
         System.out.println("Estem al any = "+any);
